@@ -2,31 +2,31 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D26A&center=false&vCenter=true&width=400&lines=Feel+free+to+connect!+==>;Ping+me+to+collaborate!;Let's+build+something+amazing!;Open+to+new+opportunities!;Always+ready+to+discuss+tech!" width="250"/>
-  <a href="mailto:girishgaikwad2055@gmail.com">
+  <a href="mailto:gowthamnaveen124@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="35" height="35" />
   </a>
   <a href="https://me03.vercel.app/">
     <img src="https://skillicons.dev/icons?i=vercel" width="35" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/girish-gaikwad2055">
+  <a href="https://www.linkedin.com/in/gowthamcd6">
     <img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" />
   </a>
-  <a href="https://www.instagram.com/girish_gaikwad_2055">
+  <a href="https://www.instagram.com/gowthamcd6">
     <img src="https://skillicons.dev/icons?i=instagram" width="35" height="35" />
   </a>
-  <a href="https://x.com/Girish_gaikwad_">
+  <a href="https://x.com/gowthamcd6">
     <img src="https://skillicons.dev/icons?i=twitter" width="35" height="35" />
   </a>
   <a href="https://discord.com/users/1278222380086464524">
     <img src="https://skillicons.dev/icons?i=discord" width="35" height="35" />
   </a>
-  <a href="https://github.com/girish-gaikwad">
+  <a href="https://github.com/GowthamCD6">
     <img src="https://skillicons.dev/icons?i=github" width="35" height="35" />
   </a>
-  <a href="https://leetcode.com/u/Girish_Gaikwad/">
+  <a href="https://leetcode.com/u/GowthamCD6/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35" height="35" />
   </a>
-  <a href="https://www.youtube.com/@GirishGaikwad2055">
+  <a href="https://www.youtube.com/@gowthamcd6">
   <img src="https://cdn.simpleicons.org/youtube/FF0000" width="35" height="35" />
 </a>
 
@@ -34,13 +34,14 @@
 
 ## <img src="About Me.gif" height="25" />
 
-<img align="right" src="https://github-stats-alpha.vercel.app/api?username=girish-gaikwad&cc=22272e&tc=00D26A&ic=fff&bc=0000" height="200" width="400" />
+<img align="right" src="https://github-stats-alpha.vercel.app/api?username=GowthamCD6&cc=22272e&tc=00D26A&ic=fff&bc=0000" height="200" width="400" />
 
-- 🎓 B.Tech IT student in **AI & Full-Stack** (trying to make machines smarter than me).
-- 🚀 I build stuff that solves problems - not just “Hello World.”
-- 🧠 Obsessed with **LLMs, RAG & AI agents** (AI should do the boring parts, right?).
+- 🎓 B.Tech IT student exploring the worlds of **Full-Stack Development & AI**.
+- 🚀 Building applications that people can actually use—not just another "Hello World."
+- ☕ Java enthusiast solving DSA problems one LeetCode challenge at a time.
 - 🔍 Love projects that are **scalable, practical, and slightly futuristic.**
 - 🌱 Forever learning - mostly because tech keeps deprecating itself.
+- 💡 I love transforming ideas into real products (after debugging them for hours 😅).
 - 🛠️ Turning wild ideas into working projects (after a few spectacular fails).
 - 🌐 Aim: tech that’s **useful, accessible, and rage-quit free.**
 
@@ -85,19 +86,19 @@
 
 |                                                                                                      **📊 GitHub Analytics**                                                                                                      |                                                                                         **🔥 Contribution Streak**                                                                                          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github-readme-stats.vercel.app/api?username=girish-gaikwad&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff" alt="GitHub Stats" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=girish-gaikwad&theme=dark&hide_border=true&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" width="400"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=GowthamCD6&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff" alt="GitHub Stats" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamCD6&theme=dark&hide_border=true&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" width="400"/> |
 
 |                                                                                  **🏆 GitHub Trophies**                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girish-gaikwad&theme=dracula&column=7" alt="girish-gaikwad" /></a> |
+| <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GowthamCD6&theme=dracula&column=7" alt="GowthamCD6" /></a> |
 
 |                                                                                                        **🌟 Most Used Languages**                                                                                                         |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish-gaikwad&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=ffffff&card_width=445" alt="Top Languages" width="500"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamCD6&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=ffffff&card_width=445" alt="Top Languages" width="500"/> |
 
 |                                                                                           **📈 Contribution Graph**                                                                                           |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=girish-gaikwad&theme=react-dark&hide_border=true&area=true&color=FF8C00&line=FF8C00&point=ffffff" alt="Activity Graph" width="800"/> |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=GowthamCD6&theme=react-dark&hide_border=true&area=true&color=FF8C00&line=FF8C00&point=ffffff" alt="Activity Graph" width="800"/> |
 
 </div>
 
@@ -118,7 +119,7 @@
 </tr>
 </table>
 
-<img src="https://komarev.com/ghpvc/?username=girish-gaikwad&color=0E9C47&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=GowthamCD6&color=0E9C47&style=for-the-badge">
 
 |                                  **🃏 Daily Dose of Humor**                                   |                                            **💬 Quotes & Inspiration**                                            |                                                                                          **💻 Programming Quotes**                                                                                          |
 | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
