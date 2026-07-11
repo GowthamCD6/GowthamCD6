@@ -1,194 +1,132 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           Gowtham C D • GitHub Profile README                     -->
-<!--     Drop this file into your GDKChit/GDKChit repo             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="./github-header-banner.png" width="100%" />
 
 <div align="center">
-
-<!-- GLITCH HEADER via SVG -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Gowtham&fontSize=52&color=0:00f5ff,100:bf5fff&stroke=00f5ff&strokeWidth=2&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20%7C%20Mobile%20Dev%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=75" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D26A&center=false&vCenter=true&width=400&lines=Feel+free+to+connect!+==>;Ping+me+to+collaborate!;Let's+build+something+amazing!;Open+to+new+opportunities!;Always+ready+to+discuss+tech!" width="250"/>
+  <a href="mailto:girishgaikwad2055@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="35" height="35" />
+  </a>
+  <a href="https://me03.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="35" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/girish-gaikwad2055">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" />
+  </a>
+  <a href="https://www.instagram.com/girish_gaikwad_2055">
+    <img src="https://skillicons.dev/icons?i=instagram" width="35" height="35" />
+  </a>
+  <a href="https://x.com/Girish_gaikwad_">
+    <img src="https://skillicons.dev/icons?i=twitter" width="35" height="35" />
+  </a>
+  <a href="https://discord.com/users/1278222380086464524">
+    <img src="https://skillicons.dev/icons?i=discord" width="35" height="35" />
+  </a>
+  <a href="https://github.com/girish-gaikwad">
+    <img src="https://skillicons.dev/icons?i=github" width="35" height="35" />
+  </a>
+  <a href="https://leetcode.com/u/Girish_Gaikwad/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35" height="35" />
+  </a>
+  <a href="https://www.youtube.com/@GirishGaikwad2055">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" width="35" height="35" />
+</a>
 
 </div>
 
-<br/>
+## <img src="About Me.gif" height="25" />
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&width=700&lines=gowtham%40github%3A~%24+whoami;%3E+Full+Stack+%26+Mobile+Developer;%3E+React+Native+%7C+Node.js+%7C+Java;%3E+Learning+ML+%7C+YOLO+%7C+DSA+%F0%9F%9A%80;%3E+Building+GDKChit+%F0%9F%92%B0" alt="Typing SVG" />
-</div>
+<img align="right" src="https://github-stats-alpha.vercel.app/api?username=girish-gaikwad&cc=22272e&tc=00D26A&ic=fff&bc=0000" height="200" width="400" />
 
-<br/>
+- 🎓 B.Tech IT student in **AI & Full-Stack** (trying to make machines smarter than me).
+- 🚀 I build stuff that solves problems - not just “Hello World.”
+- 🧠 Obsessed with **LLMs, RAG & AI agents** (AI should do the boring parts, right?).
+- 🔍 Love projects that are **scalable, practical, and slightly futuristic.**
+- 🌱 Forever learning - mostly because tech keeps deprecating itself.
+- 🛠️ Turning wild ideas into working projects (after a few spectacular fails).
+- 🌐 Aim: tech that’s **useful, accessible, and rage-quit free.**
 
----
-
-## `~$ neofetch`
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██████╗ ██████╗ ██╗  ██╗ ██████╗██╗  ██╗██╗████████╗                       ║
-║  ██╔════╝ ██╔══██╗██║ ██╔╝██╔════╝██║  ██║██║╚══██╔══╝                       ║
-║  ██║  ███╗██║  ██║█████╔╝ ██║     ███████║██║   ██║                          ║
-║  ██║   ██║██║  ██║██╔═██╗ ██║     ██╔══██║██║   ██║                          ║
-║  ╚██████╔╝██████╔╝██║  ██╗╚██████╗██║  ██║██║   ██║                          ║
-║   ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝   ╚═╝                          ║  
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  gowthamnaveen124@gmail.com                         📍 Tamil Nadu, India 🇮🇳  ║
-║  ─────────────────────────────────────────────────────────────────────────── ║
-║  OS          │  🪟  Windows 11                                              ║
-║  Role        │  💻  Full Stack & Mobile Developer                           ║
-║  IDE         │  ⚡  VS Code                                                 ║
-║  Status      │  🔨  Actively building GDKChit                               ║
-║  ───────────────────────────────────────────────────────────────────────────║
-║  Languages   │  Java · JavaScript · Python · HTML · CSS · SQL               ║
-║  Frameworks  │  React · React Native · Node.js · Express.js · MUI           ║
-║  Database    │  MySQL                                                       ║
-║  Tools       │  Git · GitHub · Postman · Android Studio · Workbench         ║
-║  ───────────────────────────────────────────────────────────────────────────║
-║  Learning    │  DSA 📚 · LeetCode 🏆 · Machine Learning 🤖                 ║
-║              │  Computer Vision (YOLO) 👁️ · Backend Dev ☁️                 ║
-║  ───────────────────────────────────────────────────────────────────────────║
-║  Interests   │  Full Stack · Mobile Apps · AI · Gym 🏋️ · Anime 🎌          ║
-║  Project     │  💰 GDKChit — React Native Chit Fund Management App         ║
-║  GitHub      │  github.com/GDKChit                                          ║
-║                                                                             ║
-╚═════════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `~$ cat tech_stack.json`
+## <img src="Tech Armory.gif" height="25" />
 
 <div align="center">
 
-### ⚡ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+|                                                                                                         **Programming Languages**                                                                                                          |                                                                                                                                                              **Web Development**                                                                                                                                                              |                                                                                                                 **Databases & Tools**                                                                                                                  |                                                                   **AI/ML & Data Science**                                                                   |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) | ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Next](https://skillicons.dev/icons?i=next) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) | ![Python](https://skillicons.dev/icons?i=python) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch) |
 
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-F29111?style=for-the-badge&logo=mysql&logoColor=white)
+|                                   **DevOps & Infrastructure**                                   |                                  **Design & Development Tools**                                  |                                       **Operating Systems**                                       |
+| :---------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) | ![Linux](https://skillicons.dev/icons?i=linux) ![Windows](https://skillicons.dev/icons?i=windows) |
 
 </div>
 
----
+## <img src="Work Highlights.gif" height="25" />
 
-## `~$ git log --stats`
+| **Project**                  | **Description**                                                                                                                          |                                                                                                                  **Tech Stack**                                                                                                                  |                                        **Links**                                         |
+| :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| 🤖 **EQREV Platform**        | Web-based platform providing regional brand health insights with AI-driven data scraping & automation                                    |                                                   ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![GCP](https://skillicons.dev/icons?i=gcp)                                                    |           [🔗 Live](https://eqrev.com) [📂 Code](https://github.com) (private)           |
+| 🌐 **GlobalXport**           | AI-powered platform helping SMBs automate documentation and streamline workflows                                                         | ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) |    [🔗 Live](https://globalexport.vercel.app) [📂 Code](https://github.com) (private)    |
+| 🛡️ **SecureFestOps**         | AI-powered event security & operations management system for real-time monitoring, crowd control, and safety optimization                |                                             ![Python](https://skillicons.dev/icons?i=python) ![React](https://skillicons.dev/icons?i=react) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)                                             |  [🔗 Demo](https://secure-fest-ops.vercel.app/) [📂 Code](https://github.com) (private)  |
+| 🛒 **QuickCommerce Scraper** | Automated data scraping system to extract product, pricing, and availability info from QuickCommerce for analytics and insights          |                                               ![GCP](https://skillicons.dev/icons?i=gcp) ![Python](https://skillicons.dev/icons?i=python) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)                                               |                         [📂 Code](https://github.com) (private)                          |
+| 🏭 **CNC Vault**             | Web platform to backup, restore, and manage CNC machine data securely, ensuring operational continuity and easy configuration management |                           ![GCP](https://skillicons.dev/icons?i=gcp) ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Docker](https://skillicons.dev/icons?i=docker)                           | [🔗 Live](https://cnc-machines.vercel.app/) [📂 Code](https://github.com) (comming Soon) |
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=GDKChit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d16&title_color=00f5ff&icon_color=bf5fff&text_color=c8c8c8&ring_color=00f5ff"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDKChit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d16&title_color=00f5ff&text_color=c8c8c8"/>
-</div>
+## <img src="live links.gif" height="25" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GDKChit&theme=tokyonight&hide_border=true&background=0d0d16&ring=00f5ff&fire=bf5fff&currStreakLabel=00f5ff&sideLabels=c8c8c8&sideNums=00f5ff&dates=666666" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GDKChit&bg_color=0d0d16&color=00f5ff&line=bf5fff&point=00f5ff&area=true&hide_border=true&area_color=00f5ff" width="100%"/>
-</div>
-
----
-
-## `~$ cat featured_project.md`
 
 <div align="center">
 
-```
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│   💰  GDKChit — Chit Fund Management Application            │
-│   ─────────────────────────────────────────────────────────  │
-│                                                               │
-│   Built with  │  React Native · Node.js · Express · MySQL   │
-│   Platform    │  📱 Android Mobile App                       │
-│   Status      │  🔨 Active Development                       │
-│                                                               │
-│   A modern mobile application to digitize chit fund          │
-│   management — member tracking, payment schedules,           │
-│   auction management, and real-time fund reporting.          │
-│                                                               │
-│   github.com/GDKChit/GDKChit                                 │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
-
-[![GDKChit](https://img.shields.io/badge/🔗_View_GDKChit_on_GitHub-00f5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/GDKChit/GDKChit)
+| **DevRank**[🔗](http://dev-rank.vercel.app/) | **CNC Vault**[🔗](https://cnc-machines.vercel.app/) | **QuizGen**[🔗](https://guizgen.vercel.app/) | **GigShield AI**[🔗](https://dev-spirits.vercel.app/) | **EvaPro**[🔗](https://evapro-jet.vercel.app/) | **Recovery**[🔗](https://khacks-eta.vercel.app/) | **VanAdhikar**[🔗](https://van-adhikar.vercel.app/) |
+|:---|:---|:---|:---|:---|:---|:---|
+| **PitVision**[🔗](https://pit-vision.vercel.app/) | **StudySnap**[🔗](https://future-stack-gen-ai-hackathon.vercel.app/) | **MathCanvas**[🔗](https://math-canva.vercel.app/) | **Hero Generator**[🔗](https://futuristic-hero.vercel.app/) | **GovernAI**[🔗](https://govern-ai-inky.vercel.app/) | **Elastica**[🔗](https://elasticastore.in/) | **ParkingWeb**[🔗](https://parking-web-kappa.vercel.app/) |
 
 </div>
 
----
-
-## `~$ cat learning_roadmap.sh`
-
-```bash
-#!/bin/bash
-# Current Learning Stack — 2026
-
-declare -A LEARNING=(
-  ["Data Structures & Algorithms"]="🟡 In Progress  ██████░░░░  60%"
-  ["LeetCode Problem Solving"]="🟡 In Progress  █████░░░░░  50%"
-  ["Machine Learning"]="🟠 Starting     ███░░░░░░░  30%"
-  ["Computer Vision (YOLO)"]="🟠 Starting     ██░░░░░░░░  20%"
-  ["Backend Development"]="🟢 Building     ███████░░░  70%"
-)
-
-for topic in "${!LEARNING[@]}"; do
-  echo "[$topic] → ${LEARNING[$topic]}"
-done
-```
-
----
-
-## `~$ ping gowtham`
+## <img src="github Stats.gif" height="25" />
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-GDKChit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GDKChit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gowtham_Naveen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-GDKChit-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/GDKChit)
+|                                                                                                      **📊 GitHub Analytics**                                                                                                      |                                                                                         **🔥 Contribution Streak**                                                                                          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-stats.vercel.app/api?username=girish-gaikwad&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff" alt="GitHub Stats" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=girish-gaikwad&theme=dark&hide_border=true&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" width="400"/> |
+
+|                                                                                  **🏆 GitHub Trophies**                                                                                   |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girish-gaikwad&theme=dracula&column=7" alt="girish-gaikwad" /></a> |
+
+|                                                                                                        **🌟 Most Used Languages**                                                                                                         |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish-gaikwad&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=ffffff&card_width=445" alt="Top Languages" width="500"/> |
+
+|                                                                                           **📈 Contribution Graph**                                                                                           |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=girish-gaikwad&theme=react-dark&hide_border=true&area=true&color=FF8C00&line=FF8C00&point=ffffff" alt="Activity Graph" width="800"/> |
 
 </div>
 
----
+## <img src="Personal side (1).gif" height="25" />
 
-<!-- CONTRIBUTION SNAKE (set up GitHub Action for this) -->
-<!-- Uncomment after setting up: https://github.com/Platane/snk -->
-<!--
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GDKChit/GDKChit/output/github-contribution-grid-snake-dark.svg" />
-</div>
--->
 
-<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+</td>
+<td align="center">
+<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g">
+<img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300">
+</a>
+</td>
+</tr>
+</table>
 
-```
-╔══════════════════════════════════════════════════════╗
-║   "Code gets you opportunities.                     ║
-║    Presentation makes you unforgettable."           ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://komarev.com/ghpvc/?username=girish-gaikwad&color=0E9C47&style=for-the-badge">
 
-![Profile Views](https://komarev.com/ghpvc/?username=GDKChit&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
+|                                  **🃏 Daily Dose of Humor**                                   |                                            **💬 Quotes & Inspiration**                                            |                                                                                          **💻 Programming Quotes**                                                                                          |
+| :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://readme-jokes-trinibs-projects.vercel.app/api" alt="Jokes Card" width="300"> | <img src="https://piyu-github-readme-quotes-trinibs-projects.vercel.app/api?theme=merko&border=true" width="300"> | <img src="https://github-readme-daily-quotes-trinibs-projects.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker" width="500"> |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:bf5fff&height=80&section=footer" width="100%"/>
+|                                **🎭 Programming Memes**                                 |
+| :-------------------------------------------------------------------------------------: |
+| <img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="300px"/> |
 
-</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/jdd2GPv.gif" height="37" width="250">
