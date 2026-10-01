@@ -96,7 +96,7 @@
 
 |                                                                                           **📈 Contribution Graph**                                                                                           |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=GowthamCD6&theme=react-dark&hide_border=true&area=true&color=FF8C00&line=FF8C00&point=ffffff" alt="Activity Graph" width="800"/> |
+| <a href="https://github.com/GowthamCD6"><img src="https://ghchart.rshah.org/FF8C00/GowthamCD6" alt="GowthamCD6's Contribution Graph" width="800"/></a> |
 
 </div>
 
@@ -121,7 +121,7 @@
 
 |                                  **🃏 Daily Dose of Humor**                                   |                                            **💬 Quotes & Inspiration**                                            |                                                                                          **💻 Programming Quotes**                                                                                          |
 | :-------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://readme-jokes-trinibs-projects.vercel.app/api" alt="Jokes Card" width="300"> | <img src="https://piyu-github-readme-quotes-trinibs-projects.vercel.app/api?theme=merko&border=true" width="300"> | <img src="https://github-readme-daily-quotes-trinibs-projects.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker" width="500"> |
+| <img src="https://piyu-github-readme-quotes-trinibs-projects.vercel.app/api?theme=merko&border=true&category=humor" alt="Daily Dose of Humor" width="300"> | <img src="https://piyu-github-readme-quotes-trinibs-projects.vercel.app/api?theme=merko&border=true" width="300"> | <img src="https://github-readme-daily-quotes-trinibs-projects.vercel.app/api?theme=merko&category=programming&border=true&border_color=bdf259&border_width=3&border_radius=40&font=new_rocker" width="500"> |
 
 |                                **🎭 Programming Memes**                                 |
 | :-------------------------------------------------------------------------------------: |
