@@ -88,7 +88,7 @@
 
 |                                                                                  **🏆 GitHub Trophies**                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GowthamCD6&theme=dracula&column=7" alt="GowthamCD6" /></a> |
+| <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=GowthamCD6&theme=dracula&column=7" alt="GowthamCD6" /></a> |
 
 |                                                                                                        **🌟 Most Used Languages**                                                                                                         |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -96,7 +96,7 @@
 
 |                                                                                           **📈 Contribution Graph**                                                                                           |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/GowthamCD6"><img src="https://ghchart.rshah.org/FF8C00/GowthamCD6" alt="GowthamCD6's Contribution Graph" width="800"/></a> |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GowthamCD6/GowthamCD6/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GowthamCD6/GowthamCD6/output/github-contribution-grid-snake.svg"><img alt="GowthamCD6's Contribution Graph Snake" src="https://raw.githubusercontent.com/GowthamCD6/GowthamCD6/output/github-contribution-grid-snake.svg" width="100%"/></picture> |
 
 </div>
 
